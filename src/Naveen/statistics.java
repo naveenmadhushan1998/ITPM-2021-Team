@@ -362,7 +362,7 @@ public class statistics extends javax.swing.JInternalFrame {
            rs.first();
            String count = (rs.getString(1));
            jLabel8.setText(count);
-      ////   
+      //////   
        } catch (HeadlessException | SQLException ex) {
             JOptionPane.showMessageDialog(null, ex);
         }
