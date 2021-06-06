@@ -367,6 +367,7 @@ public class statistics extends javax.swing.JInternalFrame {
             JOptionPane.showMessageDialog(null, ex);
         }
     }
+    //
     private void getStudentCount(){
         try{
            String sql = "SELECT COUNT(sid) FROM student";

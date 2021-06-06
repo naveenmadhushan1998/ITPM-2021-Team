@@ -11,7 +11,7 @@ import interf.*;
 /**
  *
  * @author NP
- */
+ *///
 public class sessionmanagement extends javax.swing.JInternalFrame {
 
     /**
