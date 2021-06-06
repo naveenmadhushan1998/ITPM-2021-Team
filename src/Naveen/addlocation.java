@@ -154,7 +154,7 @@ public class addlocation extends javax.swing.JInternalFrame {
             DataManagement d1 = new DataManagement();
             d1.setVisible(true);
             this.dispose();
-       //pst =(PreparedStatement) con.prepareStatement(sql);
+       ////pst =(PreparedStatement) con.prepareStatement(sql);
        //pst.execute();
         } catch (SQLException e) {
         }
