@@ -166,7 +166,7 @@ public class addlocation extends javax.swing.JInternalFrame {
     d1.setVisible(true);
     this.dispose();
     }//GEN-LAST:event_jButton2ActionPerformed
-
+//
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
     private javax.swing.JTextField buildingbox;

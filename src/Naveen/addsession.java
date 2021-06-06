@@ -176,7 +176,7 @@ public class addsession extends javax.swing.JInternalFrame {
             sm.setVisible(true);
             this.dispose();
        //pst =(PreparedStatement) con.prepareStatement(sql);
-       //pst.execute();
+       //pst.execute();//
         } catch (SQLException e) {
         }
     }//GEN-LAST:event_jButton1ActionPerformed
