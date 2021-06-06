@@ -40,7 +40,7 @@ public class DataManagement extends javax.swing.JFrame {
         //connect to DB
         con = DBconnect.connect();
     }
-//    public void upDateDB(){
+/////////    public void upDateDB(){
 //        try {
 //        pst = (PreparedStatement) con.prepareStatement("select * from location");
 //        
@@ -66,7 +66,7 @@ public class DataManagement extends javax.swing.JFrame {
 //         
 //        } catch (Exception e) {
 //        }
-//    }
+/////    }
 
     /**
      * This method is called from within the constructor to initialize the form.

@@ -28,7 +28,7 @@ public class addconsecutivesession extends javax.swing.JInternalFrame {
         con = DBconnect.connect();
         
     }
-
+///////////
     /**
      * This method is called from within the constructor to initialize the form.
      * WARNING: Do NOT modify this code. The content of this method is always
@@ -155,6 +155,8 @@ public class addconsecutivesession extends javax.swing.JInternalFrame {
         pack();
     }// </editor-fold>//GEN-END:initComponents
 
+    
+    ///
     private void jButton1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jButton1ActionPerformed
         String lec1 = jtxt1.getText();
         String lec2  = jtxt2.getText();
